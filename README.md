@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> في صمت الليل أهواك
+> روحي تعيش في دنياك
+> نبضي يغني للقياك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
